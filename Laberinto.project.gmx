@@ -39,6 +39,8 @@
   <backgrounds name="background">
     <background>background\background2</background>
     <background>background\background1</background>
+    <background>background\background3</background>
+    <background>background\background4</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -50,6 +52,7 @@
     <object>objects\objEnemigoVertical2</object>
     <object>objects\objJugador</object>
     <object>objects\objHome</object>
+    <object>objects\objMeta</object>
     <object>objects\objEnemigoHorizontal</object>
     <object>objects\objEnemigoPadre</object>
     <objects name="objObjects">
@@ -66,12 +69,16 @@
     </objects>
     <object>objects\objInicio</object>
     <object>objects\objRecolectables</object>
+    <object>objects\Gameover</object>
+    <object>objects\Felicitaciones</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Inicio</room>
     <room>rooms\Nivel1</room>
     <room>rooms\NIvel2</room>
     <room>rooms\Nivel3</room>
+    <room>rooms\room4</room>
+    <room>rooms\room5</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
